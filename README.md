@@ -7,7 +7,6 @@ By Thomas Wood, https://www.fastdatascience.com
 ## Getting the data
 
 ```
-mkdir data
 cd data 
 kaggle competitions download -c loan-default-prediction
 ```
