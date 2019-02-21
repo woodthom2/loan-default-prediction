@@ -11,3 +11,6 @@ mkdir data
 cd data 
 kaggle competitions download -c loan-default-prediction
 ```
+
+then unzip the zip files in place
+
