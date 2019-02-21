@@ -14,3 +14,8 @@ kaggle competitions download -c loan-default-prediction
 
 then unzip the zip files in place
 
+## Training and running the model
+
+Open and run TrainPredict.ipynb in Jupyter
+
+It will write the predictions to submission2.csv
